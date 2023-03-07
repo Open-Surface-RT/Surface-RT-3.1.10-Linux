@@ -62,5 +62,5 @@ obj-$(CONFIG_MWIFIEX)	+= mwifiex/
 obj-$(CONFIG_BCM4329)	+= bcm4329/
 obj-$(CONFIG_BCMDHD)	+= bcmdhd/
 obj-$(CONFIG_SD8797)	+= sd8797/
-obj-$(CONFIG_RTL8821CU)    += rtl8821CU/
+#obj-$(CONFIG_RTL8821CU)    += rtl8821CU/
 obj-$(CONFIG_SD8797_AOSP)	+= wlan_src/
